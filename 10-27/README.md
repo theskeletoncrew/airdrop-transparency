@@ -44,4 +44,4 @@
 `treat3_sent.log`: transaction logs of sent treats ("Yugen")  
 `treat4_sent.log`: transaction logs of sent treats ("Extinction")  
 
-`trick1_sent.log`: transaction logs of sent treats (Green)  `trick2_sent.log`: transaction logs of sent treats (Grey)  `trick3_sent.log`: transaction logs of sent treats (Orange)  `trick4_sent.log`: transaction logs of sent treats (Pink)  `trick5_sent.log`: transaction logs of sent treats (Solana)  
+`trick1_sent.log`: transaction logs of sent tricks (Green)  `trick2_sent.log`: transaction logs of sent tricks (Grey)  `trick3_sent.log`: transaction logs of sent tricks (Orange)  `trick4_sent.log`: transaction logs of sent tricks (Pink)  `trick5_sent.log`: transaction logs of sent tricks (Solana)  

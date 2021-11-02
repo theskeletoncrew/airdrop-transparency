@@ -67,4 +67,4 @@
 `treat11_sent.log`: transaction logs of sent treats ("Sword of Skull")  
 `treat12_sent.log`: transaction logs of sent treats ("The Thinker")  
 
-`trick_sent.log`: transaction logs of sent treats    
+`trick_sent.log`: transaction logs of sent tricks    
